@@ -1,0 +1,66 @@
+body{
+    background-color: #b31e6f;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #e9e4e6;
+}
+
+/*Title section*/
+h1{
+    font-family: 'Nanum Gothic-bold', sans-serif;
+    font-size: 3rem;
+}
+
+#title{
+    text-align: center;
+    padding: 2% 15%;
+}
+
+/*Image section*/
+#img-div{
+    background-color: #ff82c3;
+    text-align: center;
+    padding: 5% 10% 2%;
+    margin: 0 10%;
+}
+
+#image{
+    width: 80%;
+}
+
+#img-caption{
+    font-style: italic;
+    font-size: 1.2rem;
+    padding-top: 2%;
+    color: #393e46;
+}
+
+/*Tribute section*/
+h2{
+    font-size: 2.2rem;
+}
+
+ul{
+    font-size: 1.3rem;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+strong{
+    text-decoration: underline;
+}
+
+#tribute-info{
+    margin: 5%;
+}
+
+/*Conclusion Section*/
+a{
+    color: #ff82c3;
+    text-decoration: none;
+}
+
+.conclusion{
+    font-size: 1.3rem;
+    margin: 6% auto;
+    text-align: center;
+}
