@@ -20,13 +20,18 @@ h1{
     background-color: #ff82c3;
     text-align: center;
     padding: 5% 10% 5%;
-    margin: 10% auto;
+    margin: 5%;
+    border-radius: 2%;
 }
 
 img{
     display: block;
-    max-width: 80%;
+    max-width: 100%;
     margin: auto;
+}
+
+#image{
+    width: 80%;
 }
 
 #img-caption{
