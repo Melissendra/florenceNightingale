@@ -16,15 +16,17 @@ h1{
 }
 
 /*Image section*/
-#img-div{
+#img-div {
     background-color: #ff82c3;
     text-align: center;
-    padding: 5% 10% 2%;
-    margin: 0 10%;
+    padding: 5% 10% 5%;
+    margin: 10% auto;
 }
 
-#image{
-    width: 80%;
+img{
+    display: block;
+    max-width: 80%;
+    margin: auto;
 }
 
 #img-caption{
