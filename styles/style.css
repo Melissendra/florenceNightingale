@@ -7,7 +7,7 @@ body{
 /*Title section*/
 h1{
     font-family: 'Nanum Gothic-bold', sans-serif;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 #title{
@@ -15,24 +15,27 @@ h1{
     padding: 2% 15%;
 }
 
+#title p{
+  font-size: 1.5rem;
+}
+
 /*Image section*/
-#img-div {
+#img-div{
     background-color: #ff82c3;
     text-align: center;
-    padding: 5% 10% 5%;
-    margin: 5%;
-    border-radius: 2%;
+    padding: 5% 10% 2%;
+    margin: 3% 10%;
+    border-radius: 3%;
 }
 
 img{
     display: block;
     max-width: 100%;
     margin: auto;
+    border-radius: 2%;
+    /* border: 20px solid; */
 }
 
-#image{
-    width: 80%;
-}
 
 #img-caption{
     font-style: italic;
